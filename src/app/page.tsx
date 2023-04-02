@@ -1,7 +1,9 @@
 export default function Home() {
   return (
     <main>
-      <h1 className="tw-bg-slate-700">yeppers</h1>
+      <div className="tw-container tw-mx-auto">
+        <h1 className="tw-text-white">yeppers</h1>
+      </div>
     </main>
   );
 }
